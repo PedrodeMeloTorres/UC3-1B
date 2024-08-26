@@ -3,11 +3,9 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-
+string aprende com TeTe que tem que ser organizado e fazer tudo de acordo com o programa sem da mas ou menos de um espaço tem que utilizar tudo e mas um pouco de comandos pra deicha certo e organinazar coisa como por exemplo preço de frutas e livros 
 
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
-
+aprender a vender frutas e livros virtuais
 
