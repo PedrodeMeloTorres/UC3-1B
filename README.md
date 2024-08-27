@@ -3,9 +3,19 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-string aprende com TeTe que tem que ser organizado e fazer tudo de acordo com o programa sem da mas ou menos de um espaço tem que utilizar tudo e mas um pouco de comandos pra deicha certo e organinazar coisa como por exemplo preço de frutas e livros 
-
+### String:É uma junção de elementos que forma uma caixa de texto.
+### variáveis:Usado para armazenar informações como um cofre.
+### Number:Usado pra definir numeros valores como (R$)
+```js
+const fruta = "Banana"
+console.log(fruta)
+```
 
 ## Atividades desenvolvidas
 aprender a vender frutas e livros virtuais com uso de css
 
+```js
+const nome = "Pedro"
+console.log(nome);
+
+```
