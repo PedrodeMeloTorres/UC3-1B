@@ -7,5 +7,5 @@ string aprende com TeTe que tem que ser organizado e fazer tudo de acordo com o 
 
 
 ## Atividades desenvolvidas
-aprender a vender frutas e livros virtuais
+aprender a vender frutas e livros virtuais com uso de css
 
