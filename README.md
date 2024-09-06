@@ -19,3 +19,12 @@ const nome = "Pedro"
 console.log(nome);
 
 ```
+
+```js
+const livros = ["javascript asertivo", "engenharias de testes", "clean code", "scrum", "guia html e css3", "mongoDB"];
+const mangas = ["vagabond", "dragon ball z", "fire force", "fairy tale", "blood lab"];
+const juntarLivros = livros.concat(mangas);
+console.log(juntarLivros);
+
+console.log(livros.indexOf("Clean code"));
+console.log(livros.includes("Clean codes"));
