@@ -1,8 +1,11 @@
 # Caderno virtual - Lógica da Programação e Algoritmos
 Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os conceitos aprendidos e atiuvidades dessa unidade curricular. 
 
+# Oque é JavaScript 
+Permite criar paginas web interativas e dinâmicas
 
 ## Conteúdo Técnico
+### Boolean: É um tipo de dado primitivo que usa do Verdadeiro(True) ou Falso(False)
 ### String: É uma junção de elementos que forma uma caixa de texto.
 ### variáveis: Usado para armazenar informações como um cofre.
 ### Number: Usado pra definir numeros valores como (R$).
