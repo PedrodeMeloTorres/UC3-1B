@@ -54,8 +54,11 @@ let tipoDeLuta = prompt(
 );
 mostrarMensagem(tipoDeLuta);
 ```
+https://codepen.io/Pedro-melo-torres/pen/RwXbbdd
 ```js
 function soma (num1, num2) {
 console.log(num1 + num2)
 }
 console.log(soma(7,2))
+```
+https://codepen.io/Pedro-melo-torres/pen/BaXKGPY
