@@ -3,9 +3,13 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-### String:É uma junção de elementos que forma uma caixa de texto.
-### variáveis:Usado para armazenar informações como um cofre.
-### Number:Usado pra definir numeros valores como (R$)
+### String: É uma junção de elementos que forma uma caixa de texto.
+### variáveis: Usado para armazenar informações como um cofre.
+### Number: Usado pra definir numeros valores como (R$).
+### Function: É um conjunto de instruções que executa uma tarefa e faz contas matemáticas.
+### Array: Armazenar dados na memoria do computador.
+### Switch Case: usando informações que permite usar blocos de código.
+### If e Else: permite o codigo tomar decisões.
 ```js
 const fruta = "Banana"
 console.log(fruta)
@@ -28,3 +32,27 @@ console.log(juntarLivros);
 
 console.log(livros.indexOf("Clean code"));
 console.log(livros.includes("Clean codes"));
+```
+Desenvolvi codigos usando Function e Switch Case
+
+```js
+function mostrarMensagem(tipoDeLuta) {
+  switch (tipoDeLuta.toLowerCase()) {
+    case "muay thai":
+      alert("Muay Thai é conhecido como a arte dos oito membros!");
+      break;
+    default:
+      alert("Tipo de luta não reconhecido. Tente novamente!");
+  }
+}
+
+let tipoDeLuta = prompt(
+  "Qual luta você deseja aprender? (Muay Thai, Karatê, Jiu-Jitsu, Taekwondo, Boxe, Capoeira, Luta de Rua, Luta Livre)"
+);
+mostrarMensagem(tipoDeLuta);
+```
+```js
+function soma (num1, num2) {
+console.log(num1 + num2)
+}
+console.log(soma(7,2))
